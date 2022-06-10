@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando em **HDN.digital** como QA
-- 🌱 Atualmente estou aprendendo *Selenium*
+- 🌱 Estou aprendendo *Selenium*
 - 💬 Pergunte-me sobre Agile | Scrum | Analista de Testes | Testes Automatizados | Quality Assurance
 - ⚡ Curiosidade:
 <div>
