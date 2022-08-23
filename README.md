@@ -1,7 +1,7 @@
 ## Olá, me chamo Jessica! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando em **CI&T** como QA
+- 🔭 Atualmente estou trabalhando na **CI&T** como QA
 - 🌱 Estou aprendendo *Selenium*
 - 💬 Pergunte-me sobre Agile | Scrum | Analista de Testes | Testes Automatizados | Quality Assurance
 - ⚡ Curiosidade:
