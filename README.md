@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando na **CI&T** como QA
-- 🌱 Estou aprendendo *Selenium*
+- 🌱 Estou aprendendo *Hardhat*
 - 💬 Pergunte-me sobre Agile | Scrum | Analista de Testes | Testes Automatizados | Quality Assurance
 - ⚡ Curiosidade:
 <div>
